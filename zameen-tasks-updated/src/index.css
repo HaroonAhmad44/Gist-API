@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: aqua;
+  font-family: arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+  height: 30px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid black;
+}
+
+input::placeholder {
+  text-align: center;
+}
+
+code {
+  font-family: Consolas, monospace;
+}
+.gistInfo {
+  border: 1px solid black;
+  padding: 2px;
+  margin: 2px;
+  
+}
+
+

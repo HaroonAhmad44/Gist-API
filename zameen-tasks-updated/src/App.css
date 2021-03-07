@@ -1,0 +1,18 @@
+.App {
+  padding-top: 2%;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 50vh;
+  align-self: center;
+}
+
+#mcount {
+  display: none;
+}
